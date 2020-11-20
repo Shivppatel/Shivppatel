@@ -1,4 +1,4 @@
-# Hi there, I'm Shiv 👋
+# Hi there, I'm Shiv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 <p float="left">
