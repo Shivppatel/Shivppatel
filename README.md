@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <a href="https://github.com/shivppatel/shivppatel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivppatel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shiv's GitHub Stats" />
