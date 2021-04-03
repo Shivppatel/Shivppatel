@@ -1,10 +1,20 @@
-# Hi there, I'm Shiv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there, I'm Shiv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-## 🔧 Technologies & Tools
+
+[comment]: <- 👨‍💻  I’m currently working on my [Portfolio Site](https://github.com/Shivppatel/www.shivppatel.com) while learning **NextJS, Strapi, and Tailwind** in the process>
+
+[comment]: <- You can learn more about me at my personal website, **www.shivppatel.com**>
+
+
+
+[comment]: < - 📝 I regulary write articles on [https://dbwriteups.wordpress.com](https://dbwriteups.wordpress.com)>
+[comment]: <- ⚡ Fun fact **I love Ice creams and CSS Loaders**>
+[comment]: <- - 💬 Ask me about **HTML, JavaScript and CSS**>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p float="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -21,7 +31,4 @@
 </p>
 <a href="https://github.com/shivppatel/shivppatel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivPPatel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shiv's GitHub Stats" />
-</a>
-<a href="https://github.com/shivppatel/shivppatel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivppatel&hide=total_stars,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
