@@ -9,8 +9,11 @@ spec:
   locations:
     - 
       type: Homepage
-      where: shivpatel.xyz
-    - 
+      where: Shivpatel.xyz
+    -
+      type: LinkedIn
+      where: Linkedin.com/in/shivppatel
+    -
   favorites:
     number: 11
     animal: 🐶
