@@ -1,1 +1,24 @@
-<h1 align="center">Hey there, I'm Shiv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Oh Hey 👋
+
+```yaml
+apiVersion: v2023.9.6
+kind: Human
+metadata:
+  name: Shiv Patel
+spec:
+  locations:
+    - 
+      type: Homepage
+      where: shivpatel.xyz
+    - 
+      type: LinkedIn
+      where: linkedin.com/in/shivppatel
+    -
+  favorites:
+    number: 11
+    animal: 🐶
+    emoji: 🫠
+    food: 🍕
+    drink: 🕌 + 🫏
+    sport: ⛳️
+```
