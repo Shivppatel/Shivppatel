@@ -11,9 +11,6 @@ spec:
       type: Homepage
       where: shivpatel.xyz
     - 
-      type: LinkedIn
-      where: linkedin.com/in/shivppatel
-    -
   favorites:
     number: 11
     animal: 🐶
