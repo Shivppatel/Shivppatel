@@ -1,5 +1,3 @@
-# Oh Hey 👋
-
 ```yaml
 apiVersion: v2023.9.6
 metadata:
@@ -7,7 +5,7 @@ metadata:
 spec:
   locations:
     - 
-      type: Homepage
+      type: Blog
       where: Shivpatel.xyz
     -
       type: LinkedIn
@@ -15,8 +13,6 @@ spec:
     -
   favorites:
     number: 11
-    animal: 🐶
-    emoji: 🫠
     food: 🍕
     sport: ⛳️
 ```
