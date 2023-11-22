@@ -10,9 +10,4 @@ spec:
     -
       type: LinkedIn
       where: Linkedin.com/in/shivppatel
-    -
-  favorites:
-    number: 11
-    food: 🍕
-    sport: ⛳️
 ```
